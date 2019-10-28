@@ -1,2 +1,6 @@
 # idg1100-2019-class-timelapse
 Scripts to create timelapses during the class
+
+THIS IS AN INITIAL VERSION, NOT STABLE AND HAS DEPENDENCIES TO FFMPEG
+
+THE SCRIPTS ONLY WORK WITH MACOS
